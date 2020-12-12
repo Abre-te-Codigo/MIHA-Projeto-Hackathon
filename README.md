@@ -6,5 +6,5 @@ MIHA é um projeto para mapear, inventariar e disponibilizar informações sobre
 - [https://github.com/joaquim-og/miha](https://github.com/joaquim-og/miha)
 
 ## Vídeos 
-- [https://youtu.be/GAoDzZDp0Rw](https://youtu.be/GAoDzZDp0Rw)
-- [https://youtu.be/q8SGI-fhp0w](https://youtu.be/q8SGI-fhp0w)
+- Pitch [https://youtu.be/GAoDzZDp0Rw](https://youtu.be/GAoDzZDp0Rw)
+- Demo [https://youtu.be/q8SGI-fhp0w](https://youtu.be/q8SGI-fhp0w)
